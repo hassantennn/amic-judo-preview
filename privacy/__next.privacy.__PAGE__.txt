@@ -1,0 +1,42 @@
+1:"$Sreact.fragment"
+2:"static/chunks/512-603187a93a68cd93.js"
+3:"static/chunks/app/privacy/page-71623663970e6ac8.js"
+4:I[7512,["512","$2","877","$3"],""]
+5:"static/chunks/1-747265af0ddc81b7.js"
+6:"static/chunks/app/page-dce8ef308725dcd8.js"
+7:I[2001,["512","$2","1","$5","974","$6"],"Image"]
+8:I[8245,[],""]
+9:I[3649,[],""]
+16:"ViewportBoundary"
+17:I[2376,[],"$16"]
+18:"MetadataBoundary"
+19:I[2376,[],"$18"]
+1a:"$Sreact.suspense"
+:HL["/granite-judo-preview/_next/static/css/6b7504a3c16383ea.css","style"]
+b:X
+e:X
+e:C
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","div",null,{"className":"page-intro container","children":[["$","p",null,{"className":"eyebrow","children":"DRAFT · CLIENT REVIEW REQUIRED"}],["$","h1",null,{"children":"Privacy notice"}],"$undefined"]}],["$","article",null,{"className":"container prose section compact","children":[["$","p",null,{"children":"This is a development placeholder, not an approved privacy notice. Use fictional information in this local demonstration."}],["$","h2",null,{"children":"What the demonstration records"}],["$","p",null,{"children":"Signup stores member and payer names, contact details, age group, guardian details where needed, selected membership, and the draft terms version and timestamp. Payment fixtures, email previews and spreadsheet previews stay in the local development database."}],"$L10","$L11","$L12","$L13"]}]],null,"$L14"]}],"p":"$@15","v":null,"s":"$b"}}]]
+c:[["children",{"s":"privacy","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@d","v":"$e","s":"$b"},"c":"$Qf"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/granite-judo-preview/_next/static/css/6b7504a3c16383ea.css","precedence":"next"}]],["$","html",null,{"lang":"en-GB","data-scroll-behavior":"smooth","children":["$","body",null,{"children":[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","div",null,{"className":"demo-notice","children":["Client design preview ",["$","span",null,{"children":"·"}]," ","Granite Judo is a placeholder brand. ","No real payments or emails."]}],["$","header",null,{"className":"site-header","children":["$","div",null,{"className":"container nav-wrap","children":[["$","$L4",null,{"className":"brand","href":"/","aria-label":"Granite Judo home","children":[["$","$L7",null,{"className":"brand-mark","src":"/granite-judo-preview/granite-judo-mark.svg","width":56,"height":56,"alt":""}],["$","span",null,{"children":["Granite Judo",["$","small",null,{"children":"Aberdeen, Scotland"}]]}]]}],["$","nav",null,{"aria-label":"Main navigation","children":[["$","$L4",null,{"href":"/classes","children":"Classes & timetable"}],["$","$L4",null,{"href":"/memberships","children":"Memberships"}],["$","$L4",null,{"href":"/about","children":"About"}],["$","$L4",null,{"href":"/contact","children":"Contact"}],["$","$L4",null,{"className":"button small","href":"/signup","children":["Join now ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}]}],["$","main",null,{"id":"main","children":["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}],["$","footer",null,{"children":[["$","div",null,{"className":"container footer-top","children":[["$","div",null,{"children":[["$","$L4",null,{"href":"/","className":"brand footer-brand","aria-label":"Granite Judo home","children":[["$","$L7",null,{"className":"brand-mark","src":"/granite-judo-preview/granite-judo-mark.svg","width":56,"height":56,"alt":""}],["$","span",null,{"children":["Granite Judo",["$","small",null,{"children":"Aberdeen, Scotland"}]]}]]}],["$","p",null,{"children":"A new beginning. A shared practice."}],["$","p",null,{"className":"muted-light","children":["Aberdeen"," · ","[Venue name]"]}]]}],["$","div",null,{"className":"footer-links","children":[["$","$L4",null,{"href":"/classes","children":"Classes & timetable"}],["$","$L4",null,{"href":"/memberships","children":"Memberships"}],["$","$L4",null,{"href":"/contact","children":"Ask a question"}]]}],["$","div",null,{"className":"footer-links","children":[["$","$L4",null,{"href":"/privacy","children":"Privacy notice"}],["$","$L4",null,{"href":"/terms","children":"Membership terms"}],false]}]]}],["$","div",null,{"className":"container footer-bottom","children":[["$","span",null,{"children":["© ",2026," ","Granite Judo"]}],["$","span",null,{"children":"Business details and policies awaiting review."}]]}]]}]]}]}]]}],"p":"$@a","v":null,"s":"$b"},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Privacy notice — draft | Granite Judo"}],["$","meta","1",{"name":"description","content":"Development privacy notice awaiting club review and approval."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","meta","3",{"property":"og:title","content":"Privacy notice — draft | Granite Judo"}],["$","meta","4",{"property":"og:description","content":"Development privacy notice awaiting club review and approval."}],"$L1b","$L1c","$L1d","$L1e","$L1f"]}]}],null]}],null]}],"p":"$@20","v":null,"s":"$b"}},"a":"$@21","u":"$@22","b":"PZDSehXX_5KL0EERe_nx3"}
+23:I[2376,[],"OutletBoundary"]
+25:I[449,[],"IconMark"]
+10:["$","p",null,{"children":"The contact form stores your message in a local outbox. No real email is sent. The local demo does not use analytics, marketing cookies or a member login."}]
+11:["$","h2",null,{"children":"Required before launch"}]
+12:["$","p",null,{"children":"[Data controller and contact], [purposes and lawful basis], [processors and international transfers], [retention and deletion periods], [individual rights and request process], [children’s data provisions], [complaints authority] and [security and incident process] require review and approval."}]
+13:["$","p",null,{"children":"Private status links contain an opaque access token. Keep them private; they are not publicly indexed. The production retention, expiry and recovery process must be agreed."}]
+14:["$","$L23",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@24"}]}]
+1b:["$","meta","5",{"name":"twitter:card","content":"summary"}]
+1c:["$","meta","6",{"name":"twitter:title","content":"Privacy notice — draft | Granite Judo"}]
+1d:["$","meta","7",{"name":"twitter:description","content":"Development privacy notice awaiting club review and approval."}]
+1e:["$","link","8",{"rel":"icon","href":"/granite-judo-preview/icon.svg?7cf9b8e2767536f5","type":"image/svg+xml","sizes":"any"}]
+1f:["$","$L25","9",{}]
+b:300
+24:null
+22:true
+b:C
+21:0
+d:"$undefined"
+a:"$undefined"
+20:"$undefined"
+15:"$undefined"

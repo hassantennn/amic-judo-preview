@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="820" viewBox="0 0 720 820">
+<defs><pattern id="grid" width="54" height="54" patternUnits="userSpaceOnUse"><path d="M54 0H0V54" fill="none" stroke="#777777" stroke-width="1" opacity=".17"/></pattern></defs>
+<path fill="#eeeeee" d="M0 0h720v820H0z"/><path fill="url(#grid)" d="M0 0h720v820H0z"/>
+<circle cx="372" cy="302" r="223" fill="#d5d5d5"/><circle cx="372" cy="302" r="190" fill="none" stroke="#e7e7e7" stroke-width="2"/>
+<path d="M0 645 411 552 720 637v183H0z" fill="#8e8e8e"/><path d="m0 721 720-70M185 603l284 217M401 556l319 224" stroke="#c2c2c2" stroke-width="2" fill="none"/>
+<ellipse cx="375" cy="705" rx="228" ry="34" fill="#333333" opacity=".22"/>
+<!-- Original editorial illustration; figures are fictional. -->
+<g stroke="#222222" stroke-width="4" stroke-linejoin="round">
+<path d="m269 445-27 99-29 145 44 10 57-134 46-87" fill="#f8f8f8"/>
+<path d="m329 468 30 112 68 103 39-23-43-119-33-104" fill="#e4e4e4"/>
+<path d="m212 681-13 29c-10 12-30 12-33 24 2 11 53 6 68-6l25-34" fill="#969696"/>
+<path d="m428 677 12 20 42 16c19 3 23-9 6-16l-28-37" fill="#969696"/>
+<path d="m244 317 48-33 57 15 39 70 32 103-154 27-37-101" fill="#fafafa"/>
+<path d="m288 287 40 44 13-32-14-38" fill="#969696"/>
+<path d="m286 298 35 63 25-52M322 360l-17 109" fill="none" stroke="#888888"/>
+<path d="m245 327-65 79 27 37 74-59" fill="#fafafa"/>
+<path d="m207 405 112-36 13 26-113 50" fill="#ededed"/>
+<path d="m314 370 30-11 9 22-22 16" fill="#969696"/>
+<path d="m347 313 68-21 59 22-11 30-58-10-34 34" fill="#ededed"/>
+<path d="m457 311 32 1 9 21-34 13" fill="#969696"/>
+<path d="m264 451 139-25 8 27-145 28z" fill="#333333"/><path d="m323 449 24 13-11 72-25-5 4-69 68 38 10-22-51-33" fill="#333333"/>
+<path d="M282 240c0-36 45-55 72-29 12 12 17 50-1 70-14 17-42 6-56-6z" fill="#969696"/>
+<path d="M282 250c-20-36 8-63 39-63 28 0 45 18 43 43-18 0-27-5-40-19-7 17-20 23-42 23z" fill="#222222"/>
+<path d="m469 469-38 95-56 122 37 22 76-118 58-85" fill="#333333"/>
+<path d="m521 472 32 89 37 127-41 10-63-127-25-79" fill="#444444"/>
+<path d="m375 683-26 12-34 13c-18 10-6 20 15 15l51-1 28-23" fill="#bcbcbc"/>
+<path d="m549 687 2 22 17 23c12 10 54 12 57 2 1-10-24-16-33-23l-4-25" fill="#bcbcbc"/>
+<path d="m468 312 38-11 31 15 34 80-30 111-103-17 1-97" fill="#444444"/>
+<path d="m478 306 12 44 29-42-5-28" fill="#bcbcbc"/>
+<path d="m475 314 12 67 36-65M487 381l-19 97" fill="none" stroke="#9a9a9a"/>
+<path d="m449 327-77 55 15 30 93-39" fill="#444444"/>
+<path d="m374 382-30-2-11 14 14 14 37 4" fill="#bcbcbc"/>
+<path d="m535 328 34 72-58 29-20-28 33-17-27-35" fill="#444444"/>
+<path d="m496 404-30-14-10 21 53 20" fill="#bcbcbc"/>
+<path d="m438 462 110 13-5 23-109-11z" fill="#f1f1f1"/><path d="m490 473-23 62 20 6 16-59 10 68 20-4-15-62" fill="#f1f1f1"/>
+<path d="M469 257c-2-29 24-49 46-39 26 10 35 39 21 60-12 26-42 33-55 12z" fill="#bcbcbc"/>
+<path d="M469 261c-13-12-10-40 3-49 23-15 52-3 63 15l5 32-18-9-5-21c-15 5-28 6-43-1z" fill="#222222"/>
+</g>
+<path d="M59 86h55M59 86v55M661 86h-55M661 86v55" fill="none" stroke="#666666" stroke-width="2"/>
+<text x="58" y="778" fill="#fafafa" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">TOGETHER, WE LEARN.</text>
+</svg>

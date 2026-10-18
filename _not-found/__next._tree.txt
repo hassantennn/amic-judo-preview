@@ -1,4 +1,4 @@
-:HL["/amic-judo-preview/_next/static/css/4cdea6af57f25e05.css","style"]
+:HL["/granite-judo-preview/_next/static/css/4cdea6af57f25e05.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"_not-found","h":96,"c":"$Q2"}]]
 0:{"b":"5LPQoWFrNmXNZGkYt6VDz","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

@@ -1,6 +1,6 @@
 # AMIC Judo client design preview
 
-Website: https://hassantennn.github.io/granite-judo-preview/
+Website: https://hassantennn.github.io/amic-judo-preview/
 
 Static design preview for AMIC Judo in Aberdeen. Includes the supplied club branding, introduction, venue, phone number and class timetable.
 

@@ -1,43 +1,29 @@
-1:"$Sreact.fragment"
-2:"static/chunks/448-496993138fd88d98.js"
-3:"static/chunks/app/layout-b7db8c8e6df8c6ab.js"
-4:I[1304,["448","$2","177","$3"],"SiteHeader"]
-5:I[8245,[],""]
-6:I[3649,[],""]
-7:"static/chunks/app/contact/thank-you/page-4d6f84fd5fc2f874.js"
-8:I[7512,["448","$2","88","$7"],""]
-9:I[2001,["448","$2","88","$7"],"Image"]
-15:"ViewportBoundary"
-16:I[2376,[],"$15"]
-17:"MetadataBoundary"
-18:I[2376,[],"$17"]
-19:"$Sreact.suspense"
-:HL["/_next/static/css/2bd5b981d48e0d1d.css","style"]
-b:X
-e:X
-e:C
-11:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","section",null,{"className":"page-intro","children":["$","div",null,{"className":"container page-intro-inner","children":[["$","div",null,{"children":[["$","p",null,{"className":"eyebrow","children":"MESSAGE SENT"}],["$","h1",null,{"children":"Thanks — your message is on its way."}]]}],["$","div",null,{"className":"lead","children":["$","p",null,{"children":"We’ve received your enquiry and will reply by email as soon as we can. If it’s urgent, feel free to call the club directly."}]}]]}]}],"$L12"],null,"$L13"]}],"p":"$@14","v":null,"s":"$b"}}]]
-f:[["children",{"s":"thank-you","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@10","v":"$e","s":"$b"},"c":"$Q11"}]]
-c:[["children",{"s":"contact","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@d","v":"$e","s":"$b"},"c":"$Qf"}]]
-0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/2bd5b981d48e0d1d.css","precedence":"next"}]],["$","html",null,{"lang":"en-GB","data-scroll-behavior":"smooth","className":"__variable_5c4995 __variable_0dfded","children":["$","body",null,{"children":[["$","a",null,{"className":"skip","href":"#main","children":"Skip to content"}],["$","div",null,{"className":"demo-notice","children":["Client design preview ",["$","span",null,{"children":"·"}]," ","","No real payments or emails."]}],["$","$L4",null,{}],["$","main",null,{"id":"main","children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"container footer-top","children":[["$","div",null,{"children":[["$","$L8",null,{"href":"/","className":"brand footer-brand","aria-label":"AMIC Judo home","children":[["$","$L9",null,{"className":"brand-mark","src":"/amic-judo-logo-small.webp","width":60,"height":60,"alt":""}],["$","span",null,{"children":["AMIC Judo",["$","small",null,{"children":"Aberdeen, Scotland"}]]}]]}],["$","p",null,{"children":"A new beginning. A shared practice."}],["$","p",null,{"className":"muted-light","children":["Aberdeen"," · ","2nd floor · Gym area"]}]]}],["$","div",null,{"className":"footer-links","children":[["$","p",null,{"className":"eyebrow","children":"ON THE MAT"}],["$","$L8",null,{"href":"/classes","children":"Classes & timetable"}],["$","$L8",null,{"href":"/memberships","children":"Memberships"}],["$","$L8",null,{"href":"/about","children":"About the club"}],["$","$L8",null,{"href":"/contact","children":"Ask a question"}]]}],["$","div",null,{"className":"footer-links","children":[["$","p",null,{"className":"eyebrow","children":"GOOD TO KNOW"}],["$","$L8",null,{"href":"/privacy","children":"Privacy notice"}],["$","$L8",null,{"href":"/terms","children":"Membership terms"}],["$","$L8",null,{"href":"/signup","children":"Joining information"}],false]}],["$","div",null,{"className":"footer-contact","children":[["$","p",null,{"className":"eyebrow","children":"LET’S TALK JUDO"}],["$","a",null,{"href":"tel:+447722592765","children":"07722 592765"}],["$","p",null,{"children":["$","a",null,{"href":"mailto:info@amicjudo.com","children":"info@amicjudo.com"}]}],["$","a",null,{"className":"text-link","href":"https://www.google.com/maps/search/?api=1&query=63+Frederick+St%2C+Aberdeen+AB24+5HY%2C+United+Kingdom","children":["Find us in Aberdeen ",["$","span",null,{"aria-hidden":"true","children":"↗"}]]}]]}]]}],["$","div",null,{"className":"container footer-bottom","children":[["$","span",null,{"children":["© ",2026," ","AMIC Judo"]}],["$","span",null,{"children":"Business details and policies awaiting review."}],["$","a",null,{"href":"#main","children":"Back to top ↑"}]]}]]}]]}]}]]}],"p":"$@a","v":null,"s":"$b"},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$19",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Message sent | AMIC Judo"}],["$","meta","1",{"name":"description","content":"Thanks for contacting AMIC Judo — your message is on its way and we will reply by email soon."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://amicjudo.com/contact/thank-you/"}],["$","meta","4",{"property":"og:title","content":"Message sent | AMIC Judo"}],"$L1a","$L1b","$L1c","$L1d","$L1e","$L1f"]}]}],null]}],"$L20"]}],"p":"$@21","v":null,"s":"$b"}},"a":"$@22","u":"$@23","b":"PH7JJ9BG3S87FHta3n-BF"}
-24:I[2376,[],"OutletBoundary"]
-26:I[449,[],"IconMark"]
-12:["$","section",null,{"className":"container section compact","children":[["$","p",null,{"children":["$","$L8",null,{"className":"button","href":"/","children":["Back to home ",["$","span",null,{"aria-hidden":"true","children":"→"}]]}]}],["$","p",null,{"className":"fine-print","style":{"marginTop":20},"children":["Meanwhile, you can explore the ",["$","$L8",null,{"className":"text-link","href":"/classes","children":"classes & timetable"}]," or read about ",["$","$L8",null,{"className":"text-link","href":"/memberships","children":"memberships"}],"."]}]]}]
-13:["$","$L24",null,{"children":["$","$19",null,{"name":"Next.MetadataOutlet","children":"$@25"}]}]
-1a:["$","meta","5",{"property":"og:description","content":"Thanks for contacting AMIC Judo — your message is on its way and we will reply by email soon."}]
-1b:["$","meta","6",{"name":"twitter:card","content":"summary"}]
-1c:["$","meta","7",{"name":"twitter:title","content":"Message sent | AMIC Judo"}]
-1d:["$","meta","8",{"name":"twitter:description","content":"Thanks for contacting AMIC Judo — your message is on its way and we will reply by email soon."}]
-1e:["$","link","9",{"rel":"icon","href":"/icon.png?58a266dd531eff5b","type":"image/png","sizes":"96x96"}]
-1f:["$","$L26","10",{}]
-20:["$","meta",null,{"name":"next-size-adjust","content":""}]
-b:300
-25:null
-23:true
-b:C
-22:0
-10:"$undefined"
-d:"$undefined"
-a:"$undefined"
-21:"$undefined"
-14:"$undefined"
+2:"$Sreact.fragment"
+3:I[8245,[],""]
+4:I[3649,[],""]
+b:"static/chunks/448-496993138fd88d98.js"
+c:"static/chunks/app/contact/thank-you/page-db9267a91a92ff70.js"
+d:I[7512,["448","$b","88","$c"],""]
+e:I[2376,[],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[2376,[],"$12"]
+14:"MetadataBoundary"
+15:I[2376,[],"$14"]
+16:I[449,[],"IconMark"]
+6:X
+6:C
+7:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","section",null,{"className":"page-intro","children":["$","div",null,{"className":"container","children":[[["$","nav",null,{"aria-label":"Breadcrumb","className":"breadcrumbs","children":["$","ol",null,{"children":[["$","li","/",{"children":["$","$Ld",null,{"prefetch":false,"href":"/","children":"Home"}]}],["$","li","/contact/",{"children":["$","$Ld",null,{"prefetch":false,"href":"/contact/","children":"Contact"}]}],["$","li","/contact/thank-you/",{"children":["$","span",null,{"aria-current":"page","children":"Thank you for your enquiry"}]}]]}]}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://amicjudo.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Contact\",\"item\":\"https://amicjudo.com/contact/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Thank you for your enquiry\",\"item\":\"https://amicjudo.com/contact/thank-you/\"}]}"}}]],["$","div",null,{"className":"page-intro-inner","children":[["$","div",null,{"children":[["$","p",null,{"className":"eyebrow","children":"Thank you for getting in touch"}],["$","h1",null,{"children":"Your next step starts here."}]]}],["$","div",null,{"className":"lead","children":["$","p",null,{"children":"Your enquiry has been sent. We will reply by email as soon as we can. A session is arranged once the club confirms it with you."}]}]]}]]}]}],["$","section",null,{"className":"container section compact","children":["$","div",null,{"className":"thank-you-panel","children":[["$","span",null,{"className":"confirmation-icon","aria-hidden":"true","children":"✓"}],["$","div",null,{"children":[["$","h2",null,{"children":"While you wait"}],["$","p",null,{"children":"Take a look at the timetable or compare membership options. If you need to speak to us, call the club directly."}],["$","div",null,{"className":"actions","children":[["$","$Ld",null,{"prefetch":false,"className":"button","href":"/classes/","children":"Explore the classes"}],["$","$Ld",null,{"prefetch":false,"className":"text-link","href":"/memberships/","children":"Compare memberships"}]]}],["$","a",null,{"className":"text-link","href":"tel:+447722592765","children":["Call the club",": ","07722 592765"]}]]}]]}]}]],null,["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$7"}}]]
+8:[["children",{"s":"thank-you","h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@9","v":"$6","s":"$7"},"c":"$Qa"}]]
+1:[["children",{"s":"contact","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@5","v":"$6","s":"$7"},"c":"$Q8"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0d1b3e"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Thank you for your enquiry | AMIC Judo"}],["$","meta","1",{"name":"description","content":"Thank you for contacting AMIC Judo. Explore the timetable and memberships while you wait for the club to reply."}],["$","meta","2",{"name":"application-name","content":"AMIC Judo"}],["$","meta","3",{"name":"robots","content":"noindex, follow"}],["$","link","4",{"rel":"canonical","href":"https://amicjudo.com/contact/thank-you/"}],["$","meta","5",{"property":"og:title","content":"Thank you for your enquiry | AMIC Judo"}],["$","meta","6",{"property":"og:description","content":"Thank you for contacting AMIC Judo. Explore the timetable and memberships while you wait for the club to reply."}],["$","meta","7",{"property":"og:url","content":"https://amicjudo.com/contact/thank-you/"}],["$","meta","8",{"property":"og:site_name","content":"AMIC Judo"}],["$","meta","9",{"property":"og:locale","content":"en_GB"}],["$","meta","10",{"property":"og:image","content":"https://amicjudo.com/og.png"}],["$","meta","11",{"property":"og:image:width","content":"1200"}],["$","meta","12",{"property":"og:image:height","content":"630"}],["$","meta","13",{"property":"og:image:alt","content":"AMIC Judo Aberdeen: find your place on the mat. Kids, teens and adults. First session free."}],["$","meta","14",{"property":"og:type","content":"website"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Thank you for your enquiry | AMIC Judo"}],["$","meta","17",{"name":"twitter:description","content":"Thank you for contacting AMIC Judo. Explore the timetable and memberships while you wait for the club to reply."}],["$","meta","18",{"name":"twitter:image","content":"https://amicjudo.com/og.png"}],["$","meta","19",{"name":"twitter:image:alt","content":"AMIC Judo Aberdeen: find your place on the mat. Kids, teens and adults. First session free."}],["$","link","20",{"rel":"icon","href":"/icon.png?58a266dd531eff5b","type":"image/png","sizes":"96x96"}],["$","$L16","21",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$7"}},"a":"$@18","u":"$@19","b":"cVR-rQeo_fh3aiGxvQY6j"}
+10:null
+19:true
+7:300
+7:C
+18:0
+9:"$undefined"
+5:"$undefined"
+17:"$undefined"
+11:"$undefined"
